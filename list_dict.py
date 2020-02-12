@@ -23,4 +23,17 @@ print("Deleting a part of a Dictionary")
 del dict[2]
 print(dict)
 
-# Hello, world!
+print()
+print("-------------------")
+print()
+# Making the list
+list = ['test', 'test2', 'test3']
+print(list)
+
+print("Appending the lsit")
+
+print("Finding a part of the list")
+list.insert(3, 'test4')
+
+print("Deleting a part of the list")
+list.pop(1)
