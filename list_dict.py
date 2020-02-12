@@ -22,3 +22,5 @@ print()
 print("Deleting a part of a Dictionary")
 del dict[2]
 print(dict)
+
+# Hello, world!
